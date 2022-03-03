@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn about Web3.0, Complex Web Animations, NextJS / Solid.js and Remix!
 - ⚡ About me: Gaming / Programming
-- 😻 I have a knack for creative Web animations
+- 😻 I have a knack for creating intuitive Web designs
 
 ### Languages and Tools:
 
