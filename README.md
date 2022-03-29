@@ -4,7 +4,7 @@
 - 🌱 Currently learning TypeScript
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn about Web3.0, Complex Web Animations, NextJS / Solid.js and Remix!
-- ⚡ About me: Gaming / Programming
+- ⚡ About me: Gaming / Programming / Browse daily DEV.to and Medium articles/blogs related to Web Technologies
 - 😻 I have a knack for creating intuitive Web designs
 
 ### Languages and Tools:
@@ -43,7 +43,3 @@
 
 [website]: https://david-chau.com
 
-<!---
-Chauster/Chauster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
