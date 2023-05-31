@@ -1,12 +1,5 @@
 # Hey there, I'm David 👋 
 
-## Aspiring to become a Frontend Developer or maybe a Fullstack!
-- 🌱 Currently learning TypeScript
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn about Web3.0, Complex Web Animations, NextJS / Solid.js and Remix!
-- ⚡ About me: Gaming / Programming / Browse daily DEV.to and Medium articles/blogs related to Web Technologies
-- 😻 I have a knack for creating intuitive Web designs
-
 ### Languages and Tools:
 
 
